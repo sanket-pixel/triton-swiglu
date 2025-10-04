@@ -1,5 +1,3 @@
-Got it! Here's a polished, **human-written style README** without emojis and with professional, natural phrasing:
-
 ---
 # High-Performance Fused SwiGLU Kernel with Triton
 
